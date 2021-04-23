@@ -1,0 +1,41 @@
+/* Imported Fonts */
+@font-face {
+    font-family: NotoSansJP;
+    src: url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap");
+}
+
+
+/* Main Div - contains everything else */
+#main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: brown; /* Temp to see where flex box is */
+}
+
+#title {
+    font-family: 'NotoSansJP', sans-serif;
+    max-width: 75vw;
+}
+
+#img-div {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: green; /* used to see where box is */
+    width: 75vw;
+}
+
+/* Image of Tribute Individual */
+#image {
+    max-width: 800px;
+    height: auto;
+    object-fit: contain;
+    background-color: orange;
+}
+
+#img-caption{
+    background-color: yellow;
+}
