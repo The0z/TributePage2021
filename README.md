@@ -1,5 +1,5 @@
 # My Tribute Page for FCC Responsive Web Design Course
-## Part of Free Code Camp - Responsive web design
+Part of Free Code Camp - Responsive web design
 
 ## My Results
 After following the requirements below and passing the 10 Test Requirements this was my final product: 
