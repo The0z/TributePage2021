@@ -3,6 +3,7 @@ Part of Free Code Camp - 300 hour Responsive Web Design Course
 
 ## My Results
 After following the requirements below and passing the 10 Test Requirements this was my final product: 
+
 ![Webpage](https://github.com/The0z/TributePage2021/blob/main/imgs/WebpageShowcase.PNG "Tribute Webpage I made")
 
 
